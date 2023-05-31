@@ -10,5 +10,5 @@ grammar_correction - It uses GPT2 and T5 model and fit them with custom dataset 
 <p></p><br>
 
 **Action detection** - Sequential data analysis and prediction <br>
--> It uses mediapipe and LSTM trained on action sequences for sign language detection.<br>
+-> It uses mediapipe and LSTM trained on action sequences for sign language detection. File - ASL.ipynb<br>
 -> action.h5 file contains the trained model weights.
